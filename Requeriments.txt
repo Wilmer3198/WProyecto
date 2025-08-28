@@ -1,0 +1,6 @@
+pip install scikit-learn
+pip install pandas 
+pip install seaborn
+pip install tensorflow
+pip install matplotlib
+pip install scapy

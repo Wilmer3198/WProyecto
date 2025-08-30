@@ -5,7 +5,11 @@ Se emplearon enfoques de **aprendizaje supervisado** y **aprendizaje profundo**,
 
 ---
 
-## 📂 Dataset  
+## 📂 Dataset
+
+Los Datos originales puede ser vistos en el siguiete enlace:
+
+https://www.kaggle.com/datasets/exitium505/dos-goldeneye-and-hulk-pcaps
 
 Se trabajó con dos representaciones de los datos:  
 
